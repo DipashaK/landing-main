@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* styles.css or global.css */
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Ensures the page uses full height */
+    overflow-x: hidden; /* Prevent horizontal scroll */
+    overflow-y: hidden; /* Prevent vertical scroll */
+  }
+  
